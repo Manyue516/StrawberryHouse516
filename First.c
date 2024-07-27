@@ -2,7 +2,28 @@
 
 int main(void)
 {
-	printf("你好！\n");
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+
+
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+
+
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+	printf("今天天气不错\n");
+
+
+
+
+
+
 	return 0;
 }
 
